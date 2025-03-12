@@ -2,17 +2,17 @@
 
 ![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
 
-Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
+Model search is a framework that implements AutoML algorithms for model architecture search at scale. It
 aims to help researchers speed up their exploration process for finding the right
 model architecture for their classification problems (i.e., DNNs with different types of layers).
 
 The library enables you to:
 
-* Run many AutoML algorithms out of the box on your data - including automatically searching
+* Run many AutoML algorithms out of the box on data - including automatically searching
 for the right model architecture, the right ensemble of models
 and the best distilled models.
 
-* Compare many different models that are found during the search.
+* Compare a lot of different models that are found during the search.
 
 * Create you own search space to customize the types of layers in your neural networks.
 
